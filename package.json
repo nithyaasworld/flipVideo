@@ -7,18 +7,30 @@
     "start": "react-native start"
   },
   "dependencies": {
+    "@expo/ngrok": "^2.5.0",
+    "@react-native-community/slider": "3.0.3",
+    "@react-navigation/native": "^6.0.2",
     "expo": "~42.0.1",
+    "expo-av": "~9.2.3",
+    "expo-linear-gradient": "~9.2.0",
+    "expo-modules-core": "^0.2.0",
+    "expo-screen-orientation": "~3.2.1",
     "expo-splash-screen": "~0.11.2",
     "expo-status-bar": "~1.0.4",
     "expo-updates": "~0.8.1",
+    "expo-video-player": "^2.0.1",
+    "native-base": "^3.0.7",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "~0.63.4",
+    "react-native-flip-page": "^0.5.0",
     "react-native-gesture-handler": "~1.10.2",
     "react-native-reanimated": "~2.2.0",
-    "react-native-screens": "~3.4.0",
+    "react-native-svg": "12.1.1",
     "react-native-unimodules": "~0.14.5",
-    "react-native-web": "~0.13.12"
+    "react-native-web": "~0.13.12",
+    "styled-components": "^5.3.0",
+    "styled-system": "^5.1.5"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
